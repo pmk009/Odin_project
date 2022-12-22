@@ -1,1 +1,3 @@
-# first_personel
+# Odin_project
+My first GitHub repo!
+Hello Odin!
